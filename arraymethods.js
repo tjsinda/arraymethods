@@ -1,5 +1,5 @@
-let arr = [1,2,3,4,5,6,7,8,9]
-let ar1 = [10,11,12,13,10]
+let arr = [1,2,3,4,5,6,7,8,9,10]
+let ar1 = [10,11,12,13,14,15]
 let nar = []
 console.log('arr', arr) 
 console.log('ar1', ar1) 
